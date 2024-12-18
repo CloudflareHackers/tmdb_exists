@@ -1,0 +1,11 @@
+{
+  "title": "The Simpsons Movie",
+  "release_date": "2007-07-25",
+  "vote_average": 7,
+  "genres": "Animation, Comedy, Family",
+  "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/waWXo6lv77EwKxX50MadlXrwtE4.jpg",
+  "imdb_id": "tt0462538",
+  "id": 35,
+  "type": "movie"
+}
