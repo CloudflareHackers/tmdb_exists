@@ -1,0 +1,11 @@
+{
+  "title": "The Lord of the Rings",
+  "release_date": "1978-11-15",
+  "vote_average": 6.6,
+  "genres": "Adventure, Animation, Fantasy",
+  "overview": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.",
+  "poster_path": "https://image.tmdb.org/t/p/w500/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+  "imdb_id": "tt0077869",
+  "id": 123,
+  "type": "movie"
+}
